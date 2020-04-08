@@ -4,8 +4,11 @@
 // @match       https://www.startpage.com/sp/search
 // @match       https://www.startpage.com/do/search
 // @match       https://www.startpage.com/do/dsearch*
+// @match       https://startpage.com/sp/search
+// @match       https://startpage.com/do/search
+// @match       https://startpage.com/do/dsearch*
 // @grant       none
-// @version     1.0
+// @version     1.1
 // @author      cleanhands
 // @description Remove target="_blank" from startpage results
 // @run-at      document-end
